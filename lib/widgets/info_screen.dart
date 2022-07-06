@@ -54,8 +54,8 @@ class InfoScreen extends StatelessWidget {
                         "Since the start of the coronavirus outbreak some places have fully embraced wearing facemarks",
                   ),
                   const PreventCard(
-                    image: "assets/images/wear_mask.png",
-                    title: "Wear facemask",
+                    image: "assets/images/wash_hands.png",
+                    title: "Wash your hands",
                     text:
                         "Since the start of the coronavirus outbreak some places have fully embraced wearing facemarks",
                   ),
